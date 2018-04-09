@@ -1,0 +1,10 @@
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.deps.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.runtimeconfig.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.runtimeconfig.dev.json
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\bin\Debug\netcoreapp2.0\random_passcode.pdb
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.csproj.CoreCompileInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.AssemblyInfoInputs.cache
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.AssemblyInfo.cs
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.dll
+C:\Users\eclai\Desktop\DojoAssignments\netCore\ASP.NET Core I\random_passcode\obj\Debug\netcoreapp2.0\random_passcode.pdb

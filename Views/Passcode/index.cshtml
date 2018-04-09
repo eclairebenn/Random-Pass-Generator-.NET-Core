@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Passcode Generator</title>
+</head>
+<body>
+    <h1>Random Passcode (passcode #@ViewBag.passnum)</h1>
+    <div>
+        <h2>@TempData["showpass"]</h2>
+    </div>
+    <form action="/generate" method="post">
+        <div class="form-group">
+        <input type="submit" value="Generate">
+        </div>
+    </form>
+    <form action="/clear" method="post">
+        <div class="form-group">
+        <input type="submit" value="Clear">
+        </div>
+    </form>
+</body>
+</html>
